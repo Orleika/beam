@@ -11,7 +11,7 @@
 
 画像はprocessingのデモに入っていたものを使用しました。
 
-# License
+## License
 Copyright (c) 2016 orleika
 Released under the MIT license
 http://opensource.org/licenses/mit-license.php
