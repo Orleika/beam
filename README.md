@@ -10,3 +10,8 @@
 それ以外は目を閉じている。
 
 画像はprocessingのデモに入っていたものを使用しました。
+
+# License
+Copyright (c) 2016 orleika
+Released under the MIT license
+http://opensource.org/licenses/mit-license.php
