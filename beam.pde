@@ -2,7 +2,6 @@ import processing.video.*;
 
 /**
 * 目からビーム
-* copyrights 2014 Orleika All rights reserved.
 */
 Capture cam;
 PImage img;
